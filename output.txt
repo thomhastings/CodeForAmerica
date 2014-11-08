@@ -1,0 +1,45 @@
+
+Category:	Garbage and Refuse
+Occurences:	126
+First:	2012-01-03 00:00:00
+Last:	2012-12-21 00:00:00
+
+Category:	Unsanitary Conditions
+Occurences:	83
+First:	2012-01-03 00:00:00
+Last:	2012-12-19 00:00:00
+
+Category:	Animals and Pests
+Occurences:	180
+First:	2012-01-03 00:00:00
+Last:	2012-12-28 00:00:00
+
+Category:	Building Conditions
+Occurences:	62
+First:	2012-01-12 00:00:00
+Last:	2012-12-26 00:00:00
+
+Category:	Vegetation
+Occurences:	67
+First:	2012-02-01 00:00:00
+Last:	2012-12-05 00:00:00
+
+Category:	Chemical Hazards
+Occurences:	17
+First:	2012-02-08 00:00:00
+Last:	2012-12-06 00:00:00
+
+Category:	Biohazards
+Occurences:	7
+First:	2012-04-13 00:00:00
+Last:	2012-12-18 00:00:00
+
+Category:	Air Pollutants and Odors
+Occurences:	2
+First:	2012-12-05 00:00:00
+Last:	2012-12-19 00:00:00
+
+Category:	Retail Food
+Occurences:	1
+First:	2012-12-20 00:00:00
+Last:	2012-12-20 00:00:00
