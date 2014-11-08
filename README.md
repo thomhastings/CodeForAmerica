@@ -1,7 +1,7 @@
 CodeForAmerica
 ==============
 
-The didn't accept me but my solution using Python's datetime library was far more elegant that this "I know how to use Microsoft Excel" is not real data science trash. Not only that, but my pure text implementation results in fewer lines of code and more parseable output, not to mention the ability to use dynamic datetime objects in Python as a more Object-Oriented and potentially webservice based (via, say, Django) than this pitiful static one-off report.  
+They didn't accept my application but my solution using Python's datetime library was far more elegant that this "I know how to use Microsoft Excel"-esque clearly not real data science trash. Not only that, but my pure text implementation results in fewer lines of code and more parseable output, not to mention the ability to use dynamic datetime objects in Python as a more Object-Oriented and potentially webservice based (via, say, Django) than this pitiful static one-off report. Furthermore, Python's versatility and portability as a scripting language is unparalleled and very well maintained especially on high performance supercomputing clusters running any variant of Rocks.
 
 Original Trash
 --------------
