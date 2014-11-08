@@ -1,6 +1,11 @@
 CodeForAmerica
 ==============
 
+The didn't accept me but my solution using Python's datetime library was far more elegant that this "I know how to use Microsoft Excel" is not real data science trash. Not only that, but my pure text implementation results in fewer lines of code and more parseable output, not to mention the ability to use dynamic datetime objects in Python as a more Object-Oriented and potentially webservice based (via, say, Django) than this pitiful static one-off report.  
+
+Original Trash
+--------------
+
 This analysis examines data released by CodeForAmerica about code violations. I'm going to perform some basic descriptive data visualizations to understand the changes in these violations, their distribution across days of the week, and which types of violations take the longest time to resolve.
 
 Grouping the violation categories together, I plot the cumulative number of violations over time in the Figure below. The `Animals and Pests` category has the most total violations by the end of the year, followed by `Garbage and Refuse`. Some categories like `Animals and Pests` grow at a relatively constant rate, suggesting a consistent underlying pattern, while other categories like `Unsanitary Conditions` have discontinuous changes suggesting one-time events are responsible.
